@@ -1,2 +1,2 @@
 # proutine
-php coroutine
+php rustic coroutine

@@ -1,0 +1,21 @@
+{
+    "name": "kaixings/proutine",
+    "description": "php rustic coroutine",
+    "homepage": "https://github.com/kaixings/proutine",
+    "license": "MIT",
+    "type":"library",
+    "autoload": {
+        "psr-4": {
+            "Kaixings\\Proutine\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kaixings",
+            "email": "352182510@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^5.5|^7.0|^8.0"
+    }
+}
