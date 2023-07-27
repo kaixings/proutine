@@ -1,5 +1,6 @@
 <?php
-namespace App\Library\Async\Lib;
+namespace Kaixings\Proutine;
+
 class SystemCall {
     protected $callback;
     public function __construct(callable $callback) {
